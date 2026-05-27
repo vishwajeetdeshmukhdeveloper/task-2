@@ -1278,5 +1278,5 @@ Content-Type: application/json
 │ • output/ directory storage                 │
 └─────────────────────────────────────────────┘
 ```
-
+# Thank You
 This completes a full circle of medical document processing from upload to final organized report!
